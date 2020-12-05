@@ -8,4 +8,4 @@ The methods to find the best solution are in Calc.cs.
 
 Demo Video: coming soon...
 
-<img src="Images/screenshot_small.png">
+<img src="https://github.com/Hendrik-Jacobs/Cutting_Optimizer_v1.0/blob/main/Screenshots/screenshot_small.png">
